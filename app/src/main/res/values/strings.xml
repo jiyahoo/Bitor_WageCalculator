@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bitor_WageCalculator</string>
+    <string name="wage_calculator">Wage Calculator</string>
+    <string name="employee_name">Employee Name:</string>
+    <string name="calculate">Calculate</string>
+    <string name="name">Name</string>
+    <string name="employee_type">Employee Type:</string>
+    <string name="regular_employee">Regular Employee</string>
+    <string name="part_time_worker">Part-Time Worker</string>
+    <string name="probationary_employee">Probationary Employee</string>
+    <string name="hours_worked_1_8_hours">Hours worked (1-8 Hours):</string>
+    <string name="whole_number">Whole Number</string>
+    <string name="_0">0</string>
+</resources>
